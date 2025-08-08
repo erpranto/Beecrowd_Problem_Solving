@@ -1,4 +1,5 @@
-//Multiplication Table
+//Multiplication_Table
+// Hudai
 #include <bits/stdc++.h>
 using namespace std;
 int main()
